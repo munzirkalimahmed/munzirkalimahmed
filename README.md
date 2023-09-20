@@ -7,16 +7,10 @@ Software Engineer
 I am currently studying Software Engineering
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [MyPortfolio](http://github.com/munzirkalimahmed)
+* 🖥️  See my github portfolio at [MyPortfolio](http://github.com/munzirkalimahmed)
 * ✉️  You can contact me at [munzir.kalim1@gmail.com](mailto:munzir.kalim1@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
-<a href="https://www.github.com/munzirkalimahmed" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/munzirkalimahmed?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-<p align='center'>
-<img align='center' src='https://en1g1m3zkq5j0aw.m.pipedream.net'/>
-</p>
 
 <hr>
 
@@ -28,9 +22,9 @@ src="https://img.shields.io/github/followers/munzirkalimahmed?logo=github&style=
 </p>
 <hr>
 
-<hr>
-### Socials
+<h2 align="left">Languages and Tools</h2>
 
 <p align="center"> <a href="https://www.github.com/munzirkalimahmed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/munzir-kalim-ahmed-5556841b7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/munzir-kalim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
+<hr>
 
 <hr>
