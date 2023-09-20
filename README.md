@@ -3,7 +3,7 @@
 Munzir Kalim Ahmed is a Software Engineering Student at FAST NUCES.
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my github portfolio at [MyPortfolio](http://github.com/munzirkalimahmed)
+* 🖥️  See my CV at [CV]([http://github.com/munzirkalimahmed](https://munzirkalimahmed.github.io/CV/))
 * ✉️  You can contact me at [munzir.kalim1@gmail.com](mailto:munzir.kalim1@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
