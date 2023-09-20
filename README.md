@@ -1,6 +1,6 @@
 
 
-Munzir is a Software Engineering Student. He is currently studying Software Engineering at FAST NUCES.
+Munzir Kalim Ahmed is a Software Engineering Student at FAST NUCES.
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my github portfolio at [MyPortfolio](http://github.com/munzirkalimahmed)
