@@ -1,6 +1,6 @@
 <h3>Hi, Github Community👋</h3>
 
-<h6>This is Munzir Kalim Ahmed pursuing Software Engineering Degree from FAST NUCES.I am a trailblazer who always thinks about doing new things.<h6>
+<h6>This is Munzir Kalim Ahmed currently pursuing Software Engineering Degree from FAST NUCES. I am a trailblazer 💻 who always thinks about doing new things.<h6>
 
 * 🌍  I'm based in Pakistan
 * 🖥️  See my cv at [CV](https://munzirkalimahmed.github.io/CV/)
