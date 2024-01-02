@@ -25,6 +25,3 @@ Munzir Kalim Ahmed is a Software Engineering Student at FAST NUCES.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munzirkalimahmed&show_icons=true)
 
-
-
-![](https://komarev.com/ghpvc/?username=munzirkalimahmed&color=red&label=Profile+Views)
